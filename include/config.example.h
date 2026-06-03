@@ -10,8 +10,8 @@
 #define MQTT_USUARIO  "seu_usuario"
 #define MQTT_SENHA    "sua_senha"
 
-#define TOPICO_COMANDO   "casa/led"
-#define TOPICO_STATUS    "casa/nodemcu/status"
-#define TOPICO_IP        "casa/nodemcu/ip"
-#define TOPICO_UPTIME    "casa/nodemcu/uptime"
-#define TOPICO_CONFIRMA  "casa/led/confirmacao"
+#define TOPICO_COMANDO   "rafael/led"
+#define TOPICO_STATUS    "rafael/nodemcu/status"
+#define TOPICO_IP        "rafael/nodemcu/ip"
+#define TOPICO_UPTIME    "rafael/nodemcu/uptime"
+#define TOPICO_CONFIRMA  "rafael/led/confirmacao"
